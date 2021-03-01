@@ -1,0 +1,33 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: 🙋‍♂️关于/about
+    url: ./about
+
+  - title: ⭐特别栏目/special 
+    entries:
+      - title: 文摘/excerpt
+        url: ./excerpt
+      - title: 好用/pc software list
+        url: ./pc-software-list
+      - title: 传声筒/megaphone
+        url: ./megaphone
+
+  - title: 📚文章/posts
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: 更多…
+      show_more_url: ./archive
+  
+  - title: 📫找到我/contact
+    entries:
+    - title: email：dkphhh@foxmail.com
+      url: mailto:dkphhh@foxmail.com
+    - title: telegram：@dkphhh
+      url: https://t.me/Dkphhh
+  
+  - title: 📰订阅/Subscribe
+    url: ./atom.xml
+  

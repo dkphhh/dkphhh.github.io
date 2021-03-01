@@ -1,1 +1,28 @@
+<<<<<<< HEAD
+title: Dkphhh 
+author: dkphhh
+email: dkphhh@foxmail.com
+url: dkphhh.github.io
+baseurl: /blog
+description: ----->💡<-----
+theme: no-style-please
+permalink: none
+
+favicon: "logo.png" 
+theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+=======
 theme: jekyll-theme-cayman
+>>>>>>> e15bfd610f925aa54fd93d058c063c77a66fbe41
