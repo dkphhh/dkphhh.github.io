@@ -2,13 +2,13 @@ title: Dkphhh
 author: dkphhh
 email: dkphhh@foxmail.com
 url: dkphhh.github.io
-baseurl: /blog
+baseurl: 
 description: ----->💡<-----
 theme: no-style-please
 permalink: none
 
 favicon: "logo.png" 
-remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
