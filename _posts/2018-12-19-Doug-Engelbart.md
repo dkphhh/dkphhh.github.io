@@ -19,7 +19,7 @@ permalink: /Doug-Engelbart
 以下是原文的译文：
 
 
-<center><b>***</b></center>
+---
 
 
 
@@ -45,7 +45,7 @@ Doug Engelbart 今天死了。对于记者而言，他的成就很难用文字�
 
 这些陈述并不准确。
 
----
+<center><b>***</b></center>
 
 Engelbart 有他的决心、目标和使命。他曾简洁但深刻地[陈述](http://dougengelbart.org/content/view/138/000/)过。他要增强人类的智力（augment human intellect）。他想提升集体智慧并让知识工作者通过强大的新型方式协同解决紧迫的全球性问题。
 
@@ -75,7 +75,7 @@ Engelbart 有他的决心、目标和使命。他曾简洁但深刻地[陈述](h
 
 不，并不是一个东西。完全不是。它（现在的共享屏幕）忽略了设计的初衷，对于一个研究系统而言，这个出发点是最重要的。
 
----
+<center><b>***</b></center>
 
 Engelbart 的愿景，从一开始就是协作。他的愿景是人们在一个共享的智慧空间里协作。他的所有设计都以此为出发点。
 
