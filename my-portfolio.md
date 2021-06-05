@@ -46,9 +46,9 @@ HI🙋‍♀️
 
 **公关稿**
 
-[融资首发 | 奥秘之家获4000万A2轮融资，米哈游领投](http://www.3wyu.com/21949.html)
+[融资首发 奥秘之家获4000万A2轮融资，米哈游领投](http://www.3wyu.com/21949.html)
 
-[女性向加游戏化，《恋世界》入局互动内容的方法论 | 三文娱新星计划第217期](https://mp.weixin.qq.com/s/n_MqdRCTDXT-qSO9Du9AEQ)
+[女性向加游戏化，《恋世界》入局互动内容的方法论 三文娱新星计划第217期](https://mp.weixin.qq.com/s/n_MqdRCTDXT-qSO9Du9AEQ)
 
 
 ## 小明太极：2020/7~2021/2
