@@ -18,9 +18,9 @@ HI🙋‍♀️
 
 习惯翻墙，会一点点英语🤏，能阅读美国上市公司招股书和财报
 
-<br>
+<br> 
 <center>***</center>
-<br>
+<br> 
 
 # 三文娱：2019/6~2020/7
 
@@ -54,9 +54,9 @@ HI🙋‍♀️
 
 [女性向加游戏化，《恋世界》入局互动内容的方法论 三文娱新星计划第217期](https://mp.weixin.qq.com/s/n_MqdRCTDXT-qSO9Du9AEQ)
 
-<br>
+<br> 
 <center>***</center>
-<br>
+<br> 
 
 # 小明太极：2020/7~2021/2
 
@@ -78,9 +78,9 @@ HI🙋‍♀️
 
 [从《逆天邪神》到《万古神王》——小明太极的轻动画探索之路](https://mp.weixin.qq.com/s/2nln3estZoYuwj03nWg1kg)
 
-<br>
+<br> 
 <center>***</center>
-<br>
+<br> 
 
 # 情窦初开：2021/3~2021/6
 
@@ -91,7 +91,9 @@ HI🙋‍♀️
 负责品牌宣传物料，辅助电商运营
 
 1.撰写媒体公关稿
+
 2.撰写社交网络文案，包括知乎和小红书
+
 3.撰写客服常用话术，辅助电商运营
 
 **媒体公关稿**
@@ -108,9 +110,9 @@ HI🙋‍♀️
 
 [枕边小夜灯✨少女の🈲忌](http://xhslink.com/0vgaNc)
 
-<br>
+<br> 
 <center>***</center>
-<br>
+<br> 
 
 <center>
  <img src="https://raw.githubusercontent.com/dkphhh/img/master/20210605174513.jpg" width="150" height="200" > 
