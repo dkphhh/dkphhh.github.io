@@ -1,10 +1,8 @@
 ---
 title: 两段喊麦词
-author: dkphhh
-tag: 生活
 layout: post
-date: 2021-6-8 21:50:00
-permalink: /two-rap-lyrics
+date: 2021-6-8 21:50
+permalink: /rap-lyrics
 ---
 
 ## 重生之我是高富帅
