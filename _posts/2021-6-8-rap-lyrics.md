@@ -86,7 +86,7 @@ You have nothing left but 失败<br>
 <center>***</center>
 <p>
 
-## 千篇一律的年轻人        
+## 千篇一律的年轻人 
 
 没见过money，没体验过free<br>
 单一的评价体系，所有人都爬一架梯<br>
