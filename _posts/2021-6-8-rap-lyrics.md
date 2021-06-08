@@ -7,7 +7,7 @@ permalink: /rap-lyrics
 
 赋闲在家写了两首喊麦词，娱乐一下。<br>
 
-###重生之我是高富帅
+<h3>重生之我是高富帅</h3> 
 
 你在大厂上班<br>
 工作就是搬砖<br>
@@ -86,7 +86,7 @@ You have nothing left but 失败<br>
 <p><center>***</center><p>
 
 
-###千篇一律的年轻人 
+<h3>千篇一律的年轻人</h3> 
 
 没见过money，没体验过free<br>
 单一的评价体系，所有人都爬一架梯<br>
