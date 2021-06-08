@@ -82,9 +82,9 @@ You have nothing left but 失败<br>
 她也表达了最高的respect：<br>
 ”滚“<br>
 
-<p>
-<center>***</center>
-<p>
+
+<p><center>***</center><p>
+
 
 ## 千篇一律的年轻人 
 
