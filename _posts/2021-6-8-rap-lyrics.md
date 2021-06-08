@@ -102,7 +102,7 @@ You have nothing left but 失败<br>
 为什么你这么努力，还是不能赢？<br>
 因为生活无关输赢，只需要enjoy<br>
 <p>
-”I saw the best minds of my generation destroyed by madness，starving hysterical naked“<br>
+"I saw the best minds of my generation destroyed by madness，starving hysterical naked"<br>
 <p>
 <center>***<br>欢迎各位喊麦大佬随意取用<br>😀</center>
 
