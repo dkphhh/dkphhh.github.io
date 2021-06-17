@@ -7,7 +7,7 @@ date: 2021-6-17 17:45
 permalink: /Radical-acceptance
 ---
 
-编译自《aeon》2021年6月14日文章「 [Radical acceptance](https://aeon.co/essays/free-yourself-from-the-tentacles-of-pain-with-radical-acceptance?utm_medium=feed&utm_source=atom-feed)」
+编译自《aeon》2021年6月14日文章「[Radical acceptance](https://aeon.co/essays/free-yourself-from-the-tentacles-of-pain-with-radical-acceptance?utm_medium=feed&utm_source=atom-feed)」
 
 作者[Joshua Coleman](https://www.drjoshuacoleman.com/)是一位执业经验丰富的私家心理医生，现居于旧金山湾区。
 
