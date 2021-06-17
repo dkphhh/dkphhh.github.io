@@ -36,7 +36,7 @@ permalink: /Radical-acceptance
 
 是的，痛苦不仅来自生活中的伤害。有时，我们企图用美好的记忆逃避当下的苦难，也会造成痛苦。心理学家Matthew Killingsworth 和 Daniel Gilbert的论文[《A Wandering Mind Is an Unhappy Mind》](https://science.sciencemag.org/content/330/6006/932.full)（2010）总结了这一事实。他们发现，当人们通过回忆过去和幻想未来逃避现实时，他们会更不快乐。换句话说，即使用快乐来对抗痛苦，都没接受痛苦有用。还有一句类似的名言，可能来自老子，是「活在过去的人沮丧，活在未来的人焦虑，活在当下的人才能快乐。」
 
-*老子引言的原文是：Depression is living in the past, anxiety is living in the future, and joy is found living in the presen。经过网上查证，在《道德经》里找不到直接对应的原文。最接近此句的老子原句为「生于自然，死于自然，任其自然，则本性不乱。」本句应是后人化用老子思想，不是中国老子原话。参考:[《西方心理学遇见阴阳老子五行》](http://m.dooland.com/index.php?s=/article/id/404481.html)*
+*（老子引言的原文是：Depression is living in the past, anxiety is living in the future, and joy is found living in the presen。经过网上查证，在《道德经》里找不到直接对应的原文。最接近此句的老子原句为「生于自然，死于自然，任其自然，则本性不乱。」本句应是后人化用老子思想，不是中国老子原话。参考:[《西方心理学遇见阴阳老子五行》](http://m.dooland.com/index.php?s=/article/id/404481.html)）*
 
 当然，活在当下不一定真的快乐，甚至会让你更难受。但是，通过直面当下的处境，我们能逐渐获得掌控和意识到，我们经历痛苦的长度和程度。我们可以重新解释苦难的意义，用行动减轻痛苦，降低它对生活的影响。直面我们的感受，能让我们自由地欣赏生活中的积极面——那些我们爱的人，和爱我们的人，这一切与你的焦虑无关。
 
