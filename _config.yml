@@ -6,7 +6,8 @@ baseurl:
 description: ----->💡<-----
 theme: no-style-please
 permalink: none
-timezone: Asia/Shanghai
+timezone: asia/shanghai
+future: ture
 
 favicon: "logo.png" 
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
