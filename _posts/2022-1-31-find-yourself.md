@@ -3,7 +3,7 @@ title: 皈依自我
 layout: post
 tag: 读书
 date: 2022-1-31 20:30
-permalink: /2022-1-31-find-yourself
+permalink: /find-yourself
 ---
 选择是当代生活最大的骗局。
 
