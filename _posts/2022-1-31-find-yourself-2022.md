@@ -1,10 +1,9 @@
 ---
-title: 皈依自我
-author: dkphhh
-tag: 生活 读书
-date: 2022-1-30 20:00
+title: 消费主义与皈依自我
 layout: post
-published: ture
+tag: 生活 读书
+date: 2022-1-30 21:00
+permalink: /find-yourself-2022
 ---
 
 选择是当代生活最大的骗局。
