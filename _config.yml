@@ -6,7 +6,6 @@ baseurl:
 description: ----->💡<-----
 theme: no-style-please
 permalink: none
-timezone: asia/shanghai
 future: ture
 
 favicon: "logo.png" 
