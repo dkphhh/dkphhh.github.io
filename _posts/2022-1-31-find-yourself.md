@@ -1,9 +1,10 @@
 ---
 title: 皈依自我
+author: dkphhh
+tag: 生活 读书
+date: 2022-1-31 20:00
+permalink: /find- yourself-2022
 layout: post
-tag: 读书
-permalink: /find-yourself-2022
-date: 2022-1-31 20:30
 ---
 
 选择是当代生活最大的骗局。
