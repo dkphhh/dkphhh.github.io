@@ -3,7 +3,7 @@ title: 皈依自我
 author: dkphhh
 tag: 生活 读书
 date: 2022-1-31 20:00
-permalink: /find- yourself-2022
+permalink: /find-yourself-2022
 layout: post
 ---
 
