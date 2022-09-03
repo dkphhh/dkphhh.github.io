@@ -18,6 +18,6 @@ macOS自带的文件管理器（Finder）可以实现智能文件夹的功能。
 
 Finder智能文件夹能提供的过滤条件非常多，多到可怕，而这个「+」号按钮可以无限叠加。
 
-
+![智能文件夹过滤选项](https://raw.githubusercontent.com/dkphhh/dkphhh.github.io/main/img/2022-09-03/IMG_1.png)
 
 但在这里我要吐槽一下，智能文件夹的筛选逻辑只有「且」没有「或」，可能会让一些强迫症无法满足。
