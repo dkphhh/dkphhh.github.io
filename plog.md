@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: 像片
+title: 照片
 which_category: plog
 ---
