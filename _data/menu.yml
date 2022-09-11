@@ -2,26 +2,24 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 🙋‍♂️关于/about
+  - title: 关于/about
     url: ./about
 
-  - title: ⭐特别栏目/special 
+  - title: 特别栏目/special 
     entries:
       - title: 文摘/excerpt
         url: ./excerpt
-      - title: 好用/pc software list
-        url: ./pc-software-list
-      - title: 传声筒/megaphone
-        url: ./megaphone
+      - title: 照片/plog
+        url: ./plog
 
-  - title: 📚文章/posts
+  - title: 所有内容/posts
     post_list:
       limit: 10
       show_more: true
       show_more_text: 更多…
       show_more_url: ./archive
   
-  - title: 📫找到我/contact
+  - title: 找到我/contact
     entries:
     - title: email：dkphhh@foxmail.com
       url: mailto:dkphhh@foxmail.com
@@ -30,6 +28,6 @@ entries:
     - title: instagram：@dkphhh
       url: https://www.instagram.com/dkphhh/
 
-  - title: 📰订阅/Subscribe
+  - title: 订阅/Subscribe
     url: ./feed
   
