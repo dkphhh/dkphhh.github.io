@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: excerpt
+title: 文摘
 which_category: excerpt
 ---
