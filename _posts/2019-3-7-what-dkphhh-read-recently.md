@@ -4,7 +4,7 @@ title: Dkphhh最近在看什么？|文摘#10
 author: dkphhh
 tag: 博客 flypig 电影 阅读 书
 layout: post
-category: excerpt
+category: digest
 date: 2019-3-7 15:00
 permalink: /what-dkphhh-read-recently
 ---

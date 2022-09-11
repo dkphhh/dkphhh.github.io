@@ -1,7 +1,7 @@
 ---
 title: 露露的第一首诗|文摘#6
 layout: post
-category: excerpt
+category: digest
 author: lubi
 tag: 诗
 date: 2018-11-16 18:03

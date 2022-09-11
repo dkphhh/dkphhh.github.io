@@ -4,7 +4,7 @@ title: 一颗韭菜的春天|文摘#11
 author: dkphhh
 tag: 经济 传播 电影 文化
 layout: post
-category: excerpt
+category: digest
 date: 2019-3-17 19:00
 permalink: /chives-spring
 ---

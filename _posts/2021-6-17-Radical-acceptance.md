@@ -1,7 +1,7 @@
 ---
 title: 走出情绪困境|文摘#29
 layout: post
-category: excerpt
+category: digest
 tag: 心理 文化
 date: 2021-6-17 17:45
 permalink: /Radical-acceptance

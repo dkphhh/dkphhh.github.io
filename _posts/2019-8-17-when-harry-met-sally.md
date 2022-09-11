@@ -2,7 +2,7 @@
 title: 《When Harry Met Sally...》里的假高潮|文摘#17
 author: dkphhh
 layout: post
-category: excerpt
+category: digest
 tag: 电影 生活 性
 date: 2019-8-17 17:00
 permalink: /when-harry-met-sally

@@ -3,7 +3,7 @@ title: 算法或许是塑造「缸中之脑」的工具|文摘#14
 author: dkphhh
 tag: AI 记者 华为 苹果
 layout: post
-category: excerpt
+category: digest
 date: 2019-4-21 16:00
 permalink: /Brain-in-a-vat
 ---

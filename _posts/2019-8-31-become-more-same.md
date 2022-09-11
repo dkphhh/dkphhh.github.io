@@ -5,7 +5,7 @@ from: dkphhh@foxmail.com
 tag: 生活 社会 书
 date: 2019-8-31 18:00
 layout: post
-category: excerpt
+category: digest
 permalink: /become-more-same
 ---
 

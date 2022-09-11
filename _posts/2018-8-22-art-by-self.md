@@ -2,11 +2,11 @@
 title: 艺术玩晒论|文摘#3
 date: 2018-08-22 18:35
 layout: post
-category: excerpt
+category: digest
 permalink: /art-by-self
 ---
 
-本期嘀咕文摘模仿了[黄集伟](https://baike.baidu.com/item/%E9%BB%84%E9%9B%86%E4%BC%9F)老师的[一周语文](http://www.huangjiwei.com/blog/)，可惜我的阅读量并没有黄老师那么大，这一期其实攒了好久，但由于种种原因，只找到了这三篇，我认为值得分享的文章。
+本期文摘模仿了[黄集伟](https://baike.baidu.com/item/%E9%BB%84%E9%9B%86%E4%BC%9F)老师的[一周语文](http://www.huangjiwei.com/blog/)，可惜我的阅读量并没有黄老师那么大，这一期其实攒了好久，但由于种种原因，只找到了这三篇，我认为值得分享的文章。
 
 ------
 

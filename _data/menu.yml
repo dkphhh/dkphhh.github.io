@@ -8,8 +8,8 @@ entries:
   - title: category 
     entries:
       - title: 文摘
-        url: ./excerpt
-      - title: 像片
+        url: ./digest
+      - title: 照片
         url: ./plog
 
   - title: post

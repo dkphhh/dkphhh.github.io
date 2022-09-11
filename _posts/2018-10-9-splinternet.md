@@ -2,7 +2,7 @@
 title: 不在互联的互联网|文摘#5
 author: dkphhh
 layout: post
-category: excerpt
+category: digest
 tag: 互联网 防火墙 民粹主义 民族主义
 date: 2018.10.9 22:00
 permalink: /splinternet

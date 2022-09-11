@@ -2,7 +2,7 @@
 title: 如何用生物学理论解释「工人阶级的叛徒」？|文摘#16
 author: dkphhh
 layout: post
-category: excerpt
+category: digest
 tag: 书 阅读 文化 女性
 date: 2019-8-10 23:00
 permalink: /the-selfish-gene

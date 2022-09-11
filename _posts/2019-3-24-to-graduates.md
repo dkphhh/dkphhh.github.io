@@ -5,7 +5,7 @@ from: dkphhh@foxmail.com
 tag: 职业 动画 电影 文化 游戏 头条
 date: 2019-3-24 21:00
 layout: post
-category: excerpt
+category: digest
 permalink: /to-graduates
 ---
 

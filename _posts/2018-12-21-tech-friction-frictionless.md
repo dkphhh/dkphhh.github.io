@@ -2,7 +2,7 @@
 title: 一个产品「流畅易用」，到底是好还是不好？|文摘#9
 author: dkphhh
 layout: post
-category: excerpt
+category: digest
 tag: 文化 产品设计 Facebook 抖音
 date: 2018-12-21 23:00
 url: /tech-friction-frictionless

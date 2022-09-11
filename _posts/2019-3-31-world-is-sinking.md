@@ -2,7 +2,7 @@
 title: 世界在下沉，但我们不应该狂欢|文摘#13
 author: dkphhh
 layout: post
-category: excerpt
+category: digest
 tag: AI 动画 电影 文化 科技 教育
 date: 2019-3-31 17:50
 permalink: /world-is-sinking

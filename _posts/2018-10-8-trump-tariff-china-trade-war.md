@@ -1,7 +1,7 @@
 ---
 title: 中美贸易战对美国科技公司有什么影响？|文摘#4
 layout: post
-category: excerpt
+category: digest
 author: dkphhh
 tag: 贸易战 经济
 date: 2018.10.8 19:00

@@ -4,7 +4,7 @@ author: dkphhh
 from: dkphhh@foxmail.com
 tag: 电影 生活 性
 layout: post
-category: excerpt
+category: digest
 date: 2019-9-15 18:30
 permalink: /ai-competition-lifestyle
 ---

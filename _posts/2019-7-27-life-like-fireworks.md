@@ -3,7 +3,7 @@ title: 生命因你而火热|文摘#15
 author: dkphhh
 tag: LGBTQ 电影 生活 经济 古典互联网 音乐
 layout: post
-category: excerpt
+category: digest
 date: 2019-7-27 23:00
 permalink: /life-like-fireworks
 ---

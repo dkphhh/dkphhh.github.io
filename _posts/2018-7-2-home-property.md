@@ -1,7 +1,7 @@
 ---
 title: 当家被异化成资产|文摘#1
 layout: post
-category: excerpt
+category: digest
 date: 2018-07-02 18:03
 permalink: /home-property
 ---

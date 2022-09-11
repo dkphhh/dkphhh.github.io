@@ -1,7 +1,7 @@
 ---
 title: Bret Victor 写给 Doug Engelbart 的悼文|文摘#8
 layout: post
-category: excerpt
+category: digest
 date: 2018-12-19 23:00
 author: dkphhh
 tag: 交互设计 古典互联网 计算机

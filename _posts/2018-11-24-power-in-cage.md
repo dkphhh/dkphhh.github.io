@@ -2,7 +2,7 @@
 title: 围观要是有用，权力就不用制度的笼子关着了|文摘#7
 author: dkphhh
 layout: post
-category: excerpt
+category: digest
 tag: 微信 
 date: 2018-11-24 18:03
 permalink: /power-in-cage
