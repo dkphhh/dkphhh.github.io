@@ -9,7 +9,7 @@ entries:
     entries:
       - title: 文摘
         url: ./excerpt
-      - title: plog
+      - title: 像片
         url: ./plog
 
   - title: post
