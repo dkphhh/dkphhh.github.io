@@ -5,6 +5,13 @@ author: dkphhh
 permalink: /idea
 ---
 <p></p>
+No more excuses to not have a blog or a website
+
+https://montaigne.io/
+<br><small>2022-12-25 23:10</small>
+<br>
+<center>***</center>
+<br>
 不知不觉为这个新页面琢磨一天了。晚上吃点啥好呢？
 <br><small>2022-12-25 20:38</small>
 <br>
