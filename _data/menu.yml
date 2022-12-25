@@ -7,6 +7,8 @@ entries:
 
   - title: category 
     entries:
+      - title: 想法
+        url: ./idea
       - title: 文摘
         url: ./digest
       - title: 照片
