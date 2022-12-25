@@ -6,7 +6,6 @@ permalink: /idea
 ---
 <p></p>
 No more excuses to not have a blog or a website
-
 https://montaigne.io/
 <br><small>2022-12-25 23:10</small>
 <br>
