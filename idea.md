@@ -10,10 +10,3 @@
 <br>
 不是每篇文章都值得读，不是每件事情都值得知道，nothing matters。每日默念3遍，告别焦虑。
 <br><small>at 2022-12-25 00:18</small>
-
----
-title: 想法
-layout: page
-author: dkphhh
-permalink: /idea
----
