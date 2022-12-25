@@ -5,12 +5,12 @@ author: dkphhh
 permalink: /idea
 ---
 <p></p>
-不知不觉为了这个新页面琢磨一天了。晚上吃点啥好呢？
+不知不觉为这个新页面琢磨一天了。晚上吃点啥好呢？
 <br><small>2022-12-25 20:38</small>
 <br>
 <center>***</center>
 <br>
-自从更新到13以后，我的 MacBook 评论一天死机两次。库克，你到底有没有好好上班？😠
+自从更新到macOS13以后，我的 MacBook 一天死机两次。库克，你到底有没有好好上班？😠
 <br><small>2022-12-25 19:33</small>
 <br>
 <center>***</center>
