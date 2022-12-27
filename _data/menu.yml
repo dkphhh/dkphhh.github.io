@@ -25,11 +25,6 @@ entries:
     entries:
     - title: email：dkphhh@foxmail.com
       url: mailto:dkphhh@foxmail.com
-    - title: Twitter：@dkphhhd
-      url: https://twitter.com/dkphhhd
-    - title: instagram：@dkphhh
-      url: https://www.instagram.com/dkphhh/
 
   - title: subscribe
     url: ./feed
-  
