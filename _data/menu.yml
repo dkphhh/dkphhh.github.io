@@ -1,10 +1,14 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
-
-entries:
-  - title: about
-    url: ./about
-
+ entries:
+     
+  - title: post
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: 更多…
+      show_more_url: ./archive
+      
   - title: category 
     entries:
       - title: 想法
@@ -13,18 +17,12 @@ entries:
         url: ./digest
       - title: 照片
         url: ./plog
-
-  - title: post
-    post_list:
-      limit: 10
-      show_more: true
-      show_more_text: 更多…
-      show_more_url: ./archive
+        
+  - title: about
+    url: ./about
   
-  - title: contact
-    entries:
-    - title: email：dkphhh@foxmail.com
-      url: mailto:dkphhh@foxmail.com
+  - title: email
+    url: mailto:dkphhh@foxmail.com
 
   - title: subscribe
     url: ./feed
