@@ -1,13 +1,14 @@
 ---
 title: 在赛博世界里，有哪些创作者值得一看？
 layout: post
+category: idea
 date: 2018-12-03 18:00
 permalink: /2018-12-03-megaphone
 ---
 
 ![](https://images.unsplash.com/photo-1456315138460-858d1089ddba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
 
-「传声筒」是一个内容推荐列表。
+这是一个内容推荐列表。
 
 推荐标准是「我觉得好」。
 

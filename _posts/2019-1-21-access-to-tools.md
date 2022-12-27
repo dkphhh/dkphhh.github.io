@@ -2,6 +2,7 @@
 title: Access To Tools 的精神
 author: dkphhh
 layout: post
+category: idea
 tag: 反文化运动 全球概览 计算机 古典互联网
 date: 2019-1-21 20:00
 permalink: /access-to-tools

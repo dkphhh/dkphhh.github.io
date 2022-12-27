@@ -3,6 +3,7 @@ title: 困于手段之网
 layout: post
 tag: 文化 心理
 date: 2021-8-26 20:30
+category: idea
 permalink: /trapped-in-means
 ---
 

@@ -2,6 +2,7 @@
 title: 两段喊麦词
 layout: post
 date: 2021-6-8 21:50
+category: idea
 permalink: /rap-lyrics
 ---
 

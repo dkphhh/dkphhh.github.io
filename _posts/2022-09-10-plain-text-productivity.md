@@ -3,6 +3,7 @@ title: 如何用纯文本做任务管理？
 layout: post
 tag: mac app
 date: 2022-09-10 18:00:00
+category: idea
 permalink: /2022-09-10-plain-text-productivity
 ---
 

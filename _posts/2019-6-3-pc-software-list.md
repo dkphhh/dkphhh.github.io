@@ -2,13 +2,14 @@
 title: Windows软件推荐
 layout: post
 tag: Windows,软件
+category: idea
 date: 2019-6-3 16:00
 permalink: /pc-software-list
 ---
 
 ![](https://i.loli.net/2019/06/04/5cf659daebc8d54672.jpg)
 
-本文是一个持续更新的`Windows软件推荐清单`。鉴于Windows庞大的用户基数——尤其是小白用户的数量，我想将我目前在使用的、好用的工具推荐给更多人。
+本文是一个`Windows软件推荐清单`。鉴于Windows庞大的用户基数——尤其是小白用户的数量，我想将我目前在使用的、好用的工具推荐给更多人。
 
 我一贯的观点是：
 

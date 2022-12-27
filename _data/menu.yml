@@ -1,27 +1,27 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
  entries:
-     
-  - title: post
-    post_list:
-      limit: 10
-      show_more: true
-      show_more_text: 更多…
-      show_more_url: ./archive
-      
+
+  - title: about
+    url: ./about
+    
   - title: category 
-    entries:
+  entries:
       - title: 想法
         url: ./idea
       - title: 文摘
         url: ./digest
       - title: 照片
         url: ./plog
-        
-  - title: about
-    url: ./about
   
-  - title: email
+  - title: post
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: 更多…
+      show_more_url: ./archive
+  
+  - title: contact
     url: mailto:dkphhh@foxmail.com
 
   - title: subscribe

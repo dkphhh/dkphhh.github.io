@@ -3,6 +3,7 @@ title: macOS的智能文件夹
 layout: post
 tag: mac app
 date: 2022-09-03 17:30:00
+category: idea
 permalink: /2022-09-03-macos-smart-folder
 ---
 
