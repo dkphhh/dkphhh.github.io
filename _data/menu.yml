@@ -2,18 +2,18 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 entries:
 
-	- title: about
+  - title: about
     url: ./about
     
   - title: category 
-  entries:
+    entries:
       - title: 想法
         url: ./idea
       - title: 文摘
         url: ./digest
       - title: 照片
         url: ./plog
-  
+
   - title: post
     post_list:
       limit: 10
