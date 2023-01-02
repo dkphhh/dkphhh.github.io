@@ -24,5 +24,9 @@ entries:
   - title: contact
     url: mailto:dkphhh@foxmail.com
 
-  - title: subscribe
-    url: ./feed
+    - title: subscribe
+    entries:
+    - title: rss
+       url: ./feed
+    - title: email
+      url: rssto.email?url=https://dkphhh.github.io/feed
