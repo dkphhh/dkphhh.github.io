@@ -4,12 +4,12 @@ email: dkphhh@foxmail.com
 url: dkphhh.github.io
 baseurl: 
 description: “有意义地生活就是置身于永恒风险之中”
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 permalink: none
 future: ture
 
 favicon: "logo.png" 
-theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
