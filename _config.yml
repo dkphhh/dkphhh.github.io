@@ -23,6 +23,3 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Google Analytics
-google_analytics: G-L49KRX7ZCQ
