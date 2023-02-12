@@ -24,9 +24,3 @@ permalink: /2022-09-10-plain-text-productivity
 ![](../img/2022-09-10/Snipaste_2022-09-09_00-20-30.jpg)
 3. inbox，当日的新任务都加到这个类目。为了快捷添加新任务，我也做了一个shortcuts，自动将新任务输入到待办文件的最后一行。
 ![](../img/2022-09-10/Snipaste_2022-09-09_00-18-17.jpg)
-
-最后放上shortcuts链接，大家可自行取用。
-
-生成每日待办：[DailyLog](https://www.icloud.com/shortcuts/bb8be80b8552454a94afc87d4a44f8d6)
-
-添加任务到当日inbox：[Add to DailyLog](https://www.icloud.com/shortcuts/aab26f8053034980a0e0ec272f07bbbd)
