@@ -3,6 +3,7 @@ title: Dkphhh的简历
 layout: post
 tag: 简历
 permalink: /my-portfolio
+category: category
 ---
 
 HI🙋‍♀️
