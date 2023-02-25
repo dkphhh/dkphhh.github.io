@@ -27,6 +27,8 @@ entries:
   - title: subscribe
     entries:
       - title: rss
-        url: ./feed
+        url: https://feeds.feedburner.com/dkphhh
       - title: email
-        url: https://www.rssto.email/?url=https://dkphhh.github.io/feed
+        url: https://www.rssto.email/?url=https://feeds.feedburner.com/dkphhh
+        
+  
