@@ -1,3 +1,5 @@
+2023-02-25 12:06:35 dkphhh: 媒介即是讯息，工具即是方法论。the medium is the message，the tool is the Methodology。
+
 2023-02-25 00:42:41 dkphhh: 其实我不算一个 geek，比起价值观、隐私、安全性这些东西，我更在意一个软件的功能和界面设计。
 
 2023-02-24 22:49:50 dkphhh: 手机就是我的避难所。
