@@ -1,3 +1,5 @@
+2023-02-26 15:56:53 dkphhh: 下次买电脑，内存请务必 32 GB 起步！
+
 2023-02-25 22:07:14 dkphhh: 如果把人生比作竞技游戏，高考就是定级赛。
 
 2023-02-25 12:06:35 dkphhh: 媒介即是讯息，工具即是方法论。the medium is the message，the tool is the Methodology。
