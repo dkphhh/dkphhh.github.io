@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: 想法
+title: .txt
 which_category: idea
 ---

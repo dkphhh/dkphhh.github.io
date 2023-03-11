@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 照片
+title: .jpg
 which_category: plog
 category: category
 ---

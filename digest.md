@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: 文摘
+title: .docx
 which_category: digest
 ---
