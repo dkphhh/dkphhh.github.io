@@ -7,12 +7,12 @@ entries:
     
   - title: category 
     entries:
-      - title: 想法
-        url: ./idea
-      - title: 文摘
-        url: ./digest
-      - title: 照片
-        url: ./plog
+      - title: .txt
+        url: ./txt
+      - title: .docx
+        url: ./docx
+      - title: .jpg
+        url: ./jpg
 
   - title: post
     post_list:
