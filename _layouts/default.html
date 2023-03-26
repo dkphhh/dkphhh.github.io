@@ -6,6 +6,7 @@
       <div class="w">
         {{ content }}
       </div>
+      <img src="../Written-By-Human-Not-By-AI-Badge-white.svg" alt="not by AI" height="30">
     </main>
 
     {%-if site.goat_counter and jekyll.environment == "production"-%}
@@ -15,7 +16,6 @@
     {% if page.custom_js %}
       {% for js_file in page.custom_js %}
         <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
-        <img src="../Written-By-Human-Not-By-AI-Badge-white.svg" alt="not by AI" height="30">
       {% endfor %}
     {% endif %}
   </body>
