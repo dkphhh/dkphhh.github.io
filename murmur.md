@@ -1,3 +1,5 @@
+<small>@2023-04-30 17:37:34 </small>刚刚部署了微软的Azure OpenAI Service，然后通过 CloudFlare 转换映射 Azure OpenAI API ，成功在OpenCat 这样的第三方GPT客户端调用 Azure OpenAI Service。也就是说，我已经可以永久付费使用GPT3.5了！然后顺便申请了 GPT-4 模型的试用资格~
+
 <small>@2023-04-29 21:07:39 </small>看完《正常人》，Apple Music 给我随机了一首 Pulp 的《Common People》。
 
 <small>@2023-04-28 19:40:42 </small>想明白了一件事情，效率和细节在绝对的需求面前并不重要，至少优先级不高。
