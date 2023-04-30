@@ -1,3 +1,5 @@
+<small>@2023-04-30 20:51:15 </small>一个观察：我爹换手机的原因已经从「手机卡到不能用」变成「手机存储空间用完了」。
+
 <small>@2023-04-30 17:37:34 </small>刚刚部署了微软的Azure OpenAI Service，然后通过 CloudFlare 转换映射 Azure OpenAI API ，成功在OpenCat 这样的第三方GPT客户端调用 Azure OpenAI Service。也就是说，我已经可以永久付费使用GPT3.5了！然后顺便申请了 GPT-4 模型的试用资格~
 
 <small>@2023-04-29 21:07:39 </small>看完《正常人》，Apple Music 给我随机了一首 Pulp 的《Common People》。
