@@ -1,3 +1,5 @@
+<small>@2023-06-17 13:41:13 </small>人是他过去所有经验的总和，文明是其所有历史的总和。
+
 <small>@2023-06-17 11:34:34 </small>我才知道欧陆词典也支持 URL scheme，刚刚用它顺手做了一个 Raycast 的 QuickLinks 。Raycast 真是越用越顺手。
 
 <small>@2023-06-17 11:07:10 </small>我才知道 GitHub 还是个一语双关的词（git 指令人讨厌的男性）
