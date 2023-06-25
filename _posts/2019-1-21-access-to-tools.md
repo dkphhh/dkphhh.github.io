@@ -26,7 +26,7 @@ permalink: /access-to-tools
 <center><img src="https://uncommonknowledgeoxford.files.wordpress.com/2016/07/wholeearth-cover-1968firstissue.jpg"/></center>
 <center><small>《全球概览》第一期的封面：一个完整的地球</small></center>
 
-《全球概览》的诞生和[嬉皮士](https://zh.wikipedia.org/wiki/%E5%AC%89%E7%9A%AE%E5%A3%AB)有关。在反文化运动的大背景下，嬉皮士们掀起了一场「反土归田」运动，二战后，进入大学中产阶级白人青年受不了压抑的社会环境，他们受到一些诗人和艺术家的启发，决定去乡村成立公社开辟「新边疆」、或是去异地他乡流浪。脱离城市迈向荒野的他们需要获取各种工具和知识帮助他们在乡村的生活，布兰在跟随嬉皮士们四处流浪时发现了这个需求，同时也是出于对这一群体的热爱，他决定创办一本帮助人们「access to tools」的杂志，于是《全球概览》诞生了。
+《全球概览》的诞生和[嬉皮士](https://zh.wikipedia.org/wiki/%E5%AC%89%E7%9A%AE%E5%A3%AB)有关。在反文化运动的大背景下，嬉皮士们掀起了一场「反土归田」运动，二战后，进入大学的中产阶级白人青年受不了压抑的社会环境，他们受到一些诗人和艺术家的启发，决定去乡村成立公社开辟「新边疆」、或是去异地他乡流浪。脱离城市迈向荒野的他们需要获取各种工具和知识帮助他们在乡村的生活，布兰在跟随嬉皮士们四处流浪时发现了这个需求，同时也是出于对这一群体的热爱，他决定创办一本帮助人们「access to tools」的杂志，于是《全球概览》诞生了。
 
 <center><img src="https://doorofperception.com/wp-content/uploads/doorofperception.com-whole_earth_catalog-4.jpg"/></center>
 
