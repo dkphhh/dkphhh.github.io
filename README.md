@@ -1,6 +1,6 @@
 # dkphhh.github.io
 
-just a blog
+just a blog by dkphhh
 
 thanks for watching
 
