@@ -70,12 +70,16 @@ Arc 让我（再一次）产生了 all in web 的渴望，Notion （等一众在
 
 <small>@2023-07-18 19:56:23</small>
 Where's My Brain???
-\# Now Playing 
-🎵 Where's My Brain???
-🎤 The Lazy Eyes
-💽 SongBook
-![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230718195537.jpg)
 
+\# Now Playing 
+
+🎵 Where's My Brain???
+
+🎤 The Lazy Eyes
+
+💽 SongBook
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230718195537.jpg)
 
 <small>@2023-07-13 21:29:36</small>
 今天收获的新知识是，大脑也会用进废退。人类在接触新事物时，人脑内的两个神经院就会建立链接，接触的越频繁，这个链接越牢固，链接越牢固，信息传递的速度就越快。这就是为什么一段话只读一遍，只能记得只言片语，但多读几次，就能背下来。但神经元的链接并非永久稳固，如果长期不刺激，链接会减弱直至消失，所以人类的记忆并不可靠。
@@ -209,10 +213,15 @@ Ai 既然可以学习文本资料，为什么没有阅读app 做一个伴读 Ai�
 
 <small>@2023-04-14 20:43:41 </small>
 亲爱的朋友你知道吗？
-\# Now Playing 
+
+\# Now Playing
+
 🎵 永和
+
 🎤 浅堤
+
 💽 不完整的村庄
+
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230414204333.jpg)
 
 <small>@2023-04-12 08:16:23 </small>
@@ -298,6 +307,19 @@ end end end
 
 <small>@2023-03-29 20:31:04 </small>
 原来真的不是自己不想谈恋爱，是真的只是没有遇到心动的人。
+
+<small>@2023-03-29 23:45:16 </small>
+
+\# Now Playing 
+
+🎵 Fearless (Taylor’s Version)
+
+🎤 Taylor Swift
+
+💽 Fearless (Taylor's Version)
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230328234302.jpg)
+
 
 <small>@2023-03-28 22:52:16 </small>
 And mistakes are beautiful
@@ -386,8 +408,24 @@ firefox 真的太惨了，在工作场景下基本没法用……飞书就不说
 <small>@2023-03-12 16:23:52 </small>
 看完《分手的决心》，电影不错，都市奇情缠绵悱恻。婚外情的主题、时不时出现的互文台词和跨国别台词，都让我联想到了《驾驶我的车》，但是韩国人整体的氛围表达要更激烈，或者说更有戏剧感，这种戏剧感提现在非常多的地方，像宣言和诗歌一样的台词，诗意考究的镜头调度和场景美术，都在刻意营造这种精致的戏剧氛围。相比之下日本人就显得很老实，没有花太多心思设计视觉，纯粹就是靠精巧的电影文本取胜。《分手的决心》唯一的瑕疵就是汤唯的台词，总感觉像诗朗诵，让人出戏。
 
+<small>@2023-03-12 16:46:58 </small>
+
+\# Now Playing 
+
+🎵 OH HEY
+
+🎤 LÜCY & Hitsujibungaku
+
+💽 OH HEY - Single
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230312164410.jpg)
+
 <small>@2023-03-12 11:48:58 </small>
 在我还是个胖子的时候，我很讨厌夏天，现在我似乎有一点期待了。那不勒斯四部曲里，永远有明媚耀眼的阳光、蔚蓝的海岸、柠檬苏打水、还有湿热阴暗的老房子，这样的夏天让人期待。不过我是在北京，北京的夏天没有什么值得期待的。这里离海不远，但是永远干燥。
+
+<small>@2023-03-11 18:41:33 </small>
+AI 语文比我好，「这与真理的概念背道而驰」——「背道而驰」这四个字我绝对想不出来。
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230311184048.jpg)
 
 <small>@2023-03-11 16:19:33 </small>
 本来是打算就用 taio 写 markdown 的，后来发现还是 ia writer 的界面和操纵方式用起来舒心，又下回来了。内存泄露就原谅你了，还是好看最重要。
@@ -410,18 +448,31 @@ firefox 真的太惨了，在工作场景下基本没法用……飞书就不说
 <small>@2023-03-07 21:27:42 </small>
 一个不成熟的想法，北京人看起来自信，每天风轻云淡，有没有可能就是和老外一样，从小到大没有经历过波折，没有体验过压力，没有吃过苦呢？
 
+<small>@2023-03-07 07:51:42 </small>
+今天早上系鞋带，一双鞋带同时绷断，而就在两天前，我下单了新鞋。ps：新鞋和老鞋都是同一个牌子，slp。pps：到目前为止，我就这一双鞋，因为某些极简主义生活方式教条。ppps：今天学到的人生经验是，不要相信任何生活方式宗教，该吃吃，该喝喝，该买买。
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230307074703.jpg)
+
 <small>@2023-03-06 23:46:15 </small>
 behavior follows identity (or personality?)
+
+<small>@2023-03-06 20:16:30 </small>
+Yes indeed 
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230306201601.jpg)
 
 <small>@2023-03-05 23:57:00 </small>
 失策了，这个黏糊糊砂锅面可能是用了地沟油，吃完一天都感觉不对劲。
 
 <small>@2023-03-05 23:54:00 </small>
 mandark 真迷人
+
 \# Now Playing 
-🎵 I Miss You When I'm Drunk (feat. Julian Moreen)
-🎤 Mandark
+
+🎵 I Miss You When I'm Drunk (feat. Julian Moreen) 
+
+🎤 Mandark 
+
 💽 I Miss You When I'm Drunk (feat. Julian Moreen) - Single
+
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230305235343.jpg)
 
 <small>@2023-03-05 18:32:56 </small>
@@ -438,6 +489,10 @@ mandark 真迷人
 
 <small>@2023-03-04 21:52:30 </small>
 又浪费了一天 😅
+
+<small>@2023-03-03 21:35:30 </small>
+Yes indeed 
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230303213417.jpg)
 
 <small>@2023-03-01 08:00:32 </small>
 “未有知而不行者。知而不行，只是未知。”
@@ -475,6 +530,19 @@ mandark 真迷人
 <small>@2023-02-24 20:22:26 </small>
 今天开心的事：女同事说我下颌线好看。
 
+<small>@2023-02-23 01:00:57 </small>
+鸟儿困在笼中，天空一无所有
+
+\# Now Playing 
+
+🎵 神游
+
+🎤 声音碎片
+
+💽 没有鸟鸣, 关上窗吧
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230223010018.jpg)
+
 <small>@2023-02-23 00:37:57 </small>
 反复默念罗老师金句：爱具体的人
 
@@ -501,6 +569,19 @@ mandark 真迷人
 
 <small>@2023-02-19 23:34:13 </small>
 我怀疑 iA Writer 的 Mac App 有内存泄漏的情况，总是什么都没干就偷偷吞掉 1、2G 的内存。
+
+<small>@2023-01-31 19:35:13 </small>
+非常喜欢这首歌的前奏
+
+\# Now Playing 
+
+🎵 Robber
+
+🎤 The Weather Station
+
+💽 Ignorance (Deluxe Version)
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230131193503.jpg)
 
 <small>@2022-06-20 15:32:18 </small>
 一个巧合。今天在打包证书，下午奶奶给我打电话，聊完以后，正好打包到一个叫汪慧兰的考生证书，和我奶奶同名。
