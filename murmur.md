@@ -1,3 +1,7 @@
+<small>@2023-08-07 23:29:40</small>
+测试一下 murmur 发照片的体验
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230807232931.jpg)
+
 <small>@2023-08-06 22:49:00</small>
 Markdown 不好写表格怎么办？那就不写表格！
 
