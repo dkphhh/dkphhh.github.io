@@ -1,3 +1,16 @@
+<small>@2023-08-11 22:17:05</small>
+
+\# Now Playing 
+
+🎵 Visions of Gideon
+
+🎤 Sufjan Stevens
+
+💽 Call Me By Your Name (Original Motion Picture Soundtrack)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230811221703.jpg)
+
 <small>@2023-08-11 22:01:14</small>
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230811220110.jpg)
 
