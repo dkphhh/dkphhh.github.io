@@ -1,3 +1,25 @@
+<small>@2023-08-27 11:32:16</small>
+卸载了 arc，用回 Chrome，整个人都舒服了，电脑也不发热了。
+
+<small>@2023-08-23 19:11:31</small>
+
+\# Now Playing 
+
+🎵 The Plain
+
+🎤 缺省
+
+💽 The Plain - Single
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230823191129.jpg)
+
+<small>@2023-08-21 00:41:06</small>
+evil 倒过来就是 live
+
+<small>@2023-08-21 00:31:43</small>
+英雄为了世界牺牲你，反派为了你牺牲世界。
+
 <small>@2023-08-16 15:52:41</small>
 有点想把 arc 换掉了，吃内存吃的比 Chrome 还厉害 🥹，是我（的电脑）不配。
 
