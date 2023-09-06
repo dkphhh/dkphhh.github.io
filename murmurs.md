@@ -1,10 +1,15 @@
+<small>2023-09-06 12:37:58</small>
+>虛僞和文明的界線一向模糊，能在模糊之處區分兩者，本身就是文明的定義之一
+
+来源：[文明與虛僞 – 一天世界](https://blog.yitianshijie.net/2023/09/05/civility-and-hypocrisy/)
+
 <small>@2023-09-05 19:05:20</small>
 解决问题最弱的办法就是解决它
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230905190413.jpg)
 
 
 <small>2023-09-05 08:21:59</small>
-幸福并不主要产生于这个世界，而是来自于对待这个世界的方式。
+>幸福并不主要产生于这个世界，而是来自于对待这个世界的方式。
 
 来源：[每个人每天都只有24小时，希望我的选择真的是我的选择 | 枫言枫语](https://justinyan.me/post/5790)
 
