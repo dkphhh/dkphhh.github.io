@@ -1,5 +1,44 @@
+<small>@2023-09-10 23:20:49</small>
+火山挚恋的胶片太漂亮了，每次看到这样的东西都会产生用镜头记录生活的冲动（然后转头就觉得自己的生活乏味无趣，并不值得记录
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232714.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232716.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232717.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232719.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232723.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232725.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232727.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232732.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232734.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232735.jpg)
+
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232737.jpg)
+
+
+<small>@2023-09-10 17:41:31</small>
+重器轻用是一种好方法，但我现在只想用轻器。减少干扰，保持简单。
+
 <small>@2023-09-06 21:28:00</small>
-大城市北京
+大城市北京👍
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230906212747.jpg)
 
 
