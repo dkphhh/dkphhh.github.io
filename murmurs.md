@@ -554,6 +554,7 @@ And mistakes are beautiful
 
 <small>@2023-03-26 01:46 </small>
 对一件事进行抽象，相当于给思维加杠杆，杠杆一旦加错地方，就是失之毫厘谬以千里。
+
 来源：[张一鸣和他的产品观人才观](https://orangeai.substack.com/p/782)
 
 <small>@2023-03-25 00:30:38 </small>
