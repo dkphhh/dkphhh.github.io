@@ -16,9 +16,6 @@
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232723.jpg)
 
 
-![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232725.jpg)
-
-
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230910232727.jpg)
 
 
