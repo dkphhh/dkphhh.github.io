@@ -24,8 +24,7 @@ html, body { background: white; }
 html { height: 100%; }
 
 @font-face {
-  font-family: "iA Writer Mono";
-  font-style: normal;
+  font-family: 'iA Writer Mono', monospace;
   src: url('../webfonts/iAWriterMonoS-Regular.eot'); /* IE9 Compat Modes */
   src: local(''),
   url('../webfonts/iAWriterMonoS-Regular.woff2') format('woff2'), /* Super Modern Browsers */
@@ -36,6 +35,10 @@ html { height: 100%; }
   url('../webfonts/iAWriterMonoS-BoldItalic.woff') format('woff')
   url('../webfonts/iAWriterMonoS-Italic.woff') format('woff')
   url('../webfonts/iAWriterMonoS-Regular.woff') format('woff')
+  url('../webfonts/iAWriterMonoS-Regular.ttf') format('truetype')
+  url('../webfonts/iAWriterMonoS-Italic.ttf') format('truetype')
+  url('../webfonts/iAWriterMonoS-Bold.ttf') format('truetype')
+  url('../webfonts/iAWriterMonoS-BoldItalic.ttf') format('truetype')
 }
 
 body {
