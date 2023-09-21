@@ -1,3 +1,6 @@
+<small>@2023-09-21 20:48:10</small>
+今天把 blog 的字体改成 iA Writer Mono 了！🥰。真是馋 iA 家的字体啊，但是我控制住了用 iA Writer 的冲动，VSCode 就是最好的（真的不能再装更多 App 了）。
+
 <small>@2023-09-21 13:22:25</small>
 我宣布，iA Writer Mono 是这个世界上最优雅的字体。
 https://ia.net/topics/a-typographic-christmas
