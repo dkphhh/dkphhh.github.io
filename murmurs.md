@@ -8,9 +8,6 @@ https://ia.net/topics/a-typographic-christmas
 <small>@2023-09-21 07:21:49</small>
 又体验了一场小型失恋 💔
 
-<small>@2023-09-21 07:21:49</small>
-又体验了一场小型失恋 💔
-
 <small>@2023-09-20 22:33:10</small>
 VSCode 是世界上最好的文本编辑器，如果他的 UI 能再精简一点就更好了！
 
