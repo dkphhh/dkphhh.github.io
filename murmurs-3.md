@@ -1,5 +1,5 @@
 <small>@2023-09-22 21:25:15</small>
-灵动岛确实优雅，我也上岛了！
+
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230922212513.jpg)
 
 <small>@2023-09-21 20:48:10</small>

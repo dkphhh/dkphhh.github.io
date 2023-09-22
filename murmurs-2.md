@@ -1,6 +1,5 @@
-<small>@2023-09-22 21:25:15</small>
-灵动岛确实优雅，我也上岛了！
-![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20230922212513.jpg)
+<small>@2023-09-22 21:23:58</small>
+
 
 <small>@2023-09-21 20:48:10</small>
 今天下午花了 1 个小时把 blog 的字体改成 iA Writer Mono 了！🥰。真是馋 iA 家的字体啊，但是我控制住了用 iA Writer 的冲动，VSCode 就是最好的（真的不能再装更多 App 了）。
