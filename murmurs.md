@@ -1,5 +1,8 @@
+<small>@2023-09-28 11:06:40</small>
+Microsoft Todo 的细节和 Reminder 相比差太远了。就不说给任务添加相关链接了，连按提醒时间排序都不能实现……
+
 <small>@2023-09-28 09:10:05</small>
-Sonoma 升级以后，感觉电脑变卡了，这个更新真是 そのまま……
+Sonoma 升级以后，感觉电脑变卡了，这个更新真是 Sonomama……
 
 <small>@2023-09-27 19:57:39</small>
 很好，我发现了，原来 Microsoft Todo 的 iOS 端和 Mac 端是两个 App。iOS 支持快捷指令里，但是到了 Mac 上，它就是无法被识别的 App
