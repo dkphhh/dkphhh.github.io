@@ -1,3 +1,6 @@
+<small>@2023-10-02 15:25:27</small>
+我这个编程水平还是别用 Vim for VSCode 了……
+
 <small>@2023-09-30 13:48:18</small>
 今天简单入门了 Vim for VSCode，再次感叹，VSCode 就是世界上最好的文本编辑器。
 
