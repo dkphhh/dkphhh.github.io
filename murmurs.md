@@ -1,7 +1,7 @@
 <small>@2023-10-14 16:13:22</small>
 iPhone 15 Pro 的视频拍摄 👍
 
-<iframe src="https://onedrive.live.com/embed?resid=9C1C8A04C11CADE3%21149918&authkey=!AMEGBB7_rL39Su0" width="480" height="270" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=9C1C8A04C11CADE3%21149916&authkey=!AJ036i6B3dr4QDU" width="480" height="270" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <small>@2023-10-13 13:01:04</small>
 我现在怀疑，是不是因为商业软件都过于注重「便利」、「直观」、「简单」，间接培养了一帮电脑白痴……
