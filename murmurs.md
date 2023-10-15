@@ -1,3 +1,6 @@
+<small>@2023-10-15 21:27:38</small>
+发现 Anaconda 设计也挺坑的。之前把 miniconda 玩坏了，就想卸载了重新装 Anaconda，结果 Anaconda 只支持老版本的 jupyter，一堆插件装不上。现在重新装回 miniconda，舒服了。我就是喜欢折腾。
+
 <small>@2023-10-14 16:13:22</small>
 iPhone 15 Pro 的视频拍摄 👍
 
