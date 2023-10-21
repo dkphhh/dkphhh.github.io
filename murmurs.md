@@ -1,7 +1,7 @@
 <small>@2023-10-21 22:39:30</small>
 这是另一个视频测试
 
-<iframe src="https://onedrive.live.com/embed?resid=9C1C8A04C11CADE3%21149698&authkey=!APk4GkMqDZKIVHg" width="480" height="270" frameborder="0" scrolling=“no” allowfullscreen=“true"></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=9C1C8A04C11CADE3%21149698&authkey=!APk4GkMqDZKIVHg" width="480" height="270" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
 
 <small>@2023-10-18 19:41:19</small>
 思考了一下，就我用过的这么多浏览器，Chrome 居然是最简介的一个，这么多年过去了，Chrome 加入的新功能和特性屈指可数，刷版本号大多数是在更新内核或者优化已有功能。
