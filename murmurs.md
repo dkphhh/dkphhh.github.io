@@ -1,3 +1,9 @@
+<small>@2023-10-21 22:32:59</small>
+这是一个插入视频的测试机
+
+<iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
+
+
 <small>@2023-10-18 19:41:19</small>
 思考了一下，就我用过的这么多浏览器，Chrome 居然是最简介的一个，这么多年过去了，Chrome 加入的新功能和特性屈指可数，刷版本号大多数是在更新内核或者优化已有功能。
 
