@@ -1,5 +1,19 @@
+<small>@2023-10-31 22:31:35</small>
+长时间集中注意力学习，很难，非常难。
+
+<small>@2023-10-31 22:24:49</small>
+我现在终于知道为啥 jupyter 默认不开启 Continuous hinting 的功能了。因为真的不如需要的时候 tab 一下来的方便。果然原生的就是最好的。
+
+<small>@2023-10-29 21:48:22</small>nu
+最近思考的问题是，该如何利用碎片时间学习 🤔
+
+<small>@2023-10-23 22:52:04</small>
+你这幅没有生命力的样子，是装不出来的 👍
+
+<small>@2023-10-22 14:22:20</small>
+怎么就没有一个小尺寸的，视频性能强同时也兼顾一点拍照能力的，不为运动而生的，mini 相机呢。
+
 <small>@2023-10-21 22:39:30</small>
-这是另一个视频测试
 
 <iframe src="https://onedrive.live.com/embed?resid=9C1C8A04C11CADE3%21149698&authkey=!APk4GkMqDZKIVHg" width="480" height="270" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
 
