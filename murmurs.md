@@ -18,7 +18,9 @@
 
 <small>@2023-10-21 22:39:30</small>
 
-<iframe src="https://onedrive.live.com/embed?resid=9C1C8A04C11CADE3%21149698&authkey=!APk4GkMqDZKIVHg" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<video controls width="360" height="240">
+   <source src="https://onedrive.live.com/download?cid=9C1C8A04C11CADE3&resid=9C1C8A04C11CADE3%21149698&authkey=!APk4GkMqDZKIVHg" type='video/mp4'/>
+</video>
 
 <small>@2023-10-18 19:41:19</small>
 思考了一下，就我用过的这么多浏览器，Chrome 居然是最简介的一个，这么多年过去了，Chrome 加入的新功能和特性屈指可数，刷版本号大多数是在更新内核或者优化已有功能。
@@ -44,7 +46,9 @@
 <small>@2023-10-14 16:13:22</small>
 iPhone 15 Pro 的视频拍摄 👍
 
-<iframe src="https://onedrive.live.com/embed?resid=9C1C8A04C11CADE3%21149916&authkey=!AJ036i6B3dr4QDU" width="480" height="270" frameborder="0" scrolling="no” allowfullscreen=“true"></iframe>
+<video controls width="360" height="240">
+   <source src="https://onedrive.live.com/download?cid=9C1C8A04C11CADE3&resid=9C1C8A04C11CADE3%21149916&authkey=!AJ036i6B3dr4QDU" type='video/mp4'/>
+</video>
 
 <small>@2023-10-13 13:01:04</small>
 我现在怀疑，是不是因为商业软件都过于注重「便利」、「直观」、「简单」，间接培养了一帮电脑白痴……
