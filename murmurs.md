@@ -1,3 +1,14 @@
+<small>@2023-11-11 20:51:39</small>
+一时兴起折腾起了 thunderbird，搞了一些插件，算是把 mail、todo、和 GPT 整合到了一个 app 里了。可惜没有账号体系，日后换电脑了还得再整一遍。最后，开源万岁！
+
+<small>@2023-11-11 14:28:14</small>
+clarks 的 wallabee cup 拯救了我的衣柜 🥹
+
+<small>@2023-11-09 19:22:20</small>
+能上网的 GPT 确实了不起 👍
+
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20231109192320.jpg)
+
 <small>@2023-11-08 21:10:32</small>
 终于实现了在 blog 里嵌入 OneDrive 视频，给自己点赞 👍
 
