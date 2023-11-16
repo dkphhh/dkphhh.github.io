@@ -1,3 +1,15 @@
+<small>@2023-11-16 11:34:01</small>
+我现在的 dream machine：一台 12 寸的 MacBook Pro，就用现在的 MacBook Pro 的模具，把体积做小，配一个普通的 M 系芯片，内存加到 64G。perfect！
+
+<small>@2023-11-15 19:20:25</small>
+WPS 如果能少搞点营销图标，用户体验能把 Microsoft 365 摁在地上摩擦。
+
+<small>@2023-11-15 12:11:26</small>
+用了一上午 web 端的 Microsoft TODO，除了没有快捷键不大习惯以外，感觉也没有那么难用。多谢 web app 拯救了我的乞丐版 MacBook。
+
+<small>@2023-11-14 21:51:30</small>
+Mozilla 的产品真是……想要支持不容易…… thunderbird 这么美丽的产品，exchange 插件和 Microsoft todo 不兼容，👋👋
+
 <small>@2023-11-11 20:51:39</small>
 一时兴起折腾起了 thunderbird，搞了一些插件，算是把 mail、todo、和 GPT 整合到了一个 app 里了。可惜没有账号体系，日后换电脑了还得再整一遍。最后，开源万岁！
 
@@ -40,7 +52,7 @@ clarks 的 wallabee cup 拯救了我的衣柜 🥹
 思考了一下，就我用过的这么多浏览器，Chrome 居然是最简介的一个，这么多年过去了，Chrome 加入的新功能和特性屈指可数，刷版本号大多数是在更新内核或者优化已有功能。
 
 <small>@2023-10-18 13:17:12</small>
-从 Raycast 换成了 Alfred ，优雅，确实优雅。
+从 Raycast 换成了 Alfred，优雅，确实优雅。
 
 <small>@2023-10-18 00:53:36</small>
 一个真理：只要不用浏览器，8G 内存无压力。
