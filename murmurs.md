@@ -1,3 +1,51 @@
+<small>@2023-12-02 14:27:19</small>
+
+<video controls width="360" height="240">
+   <source src="https://onedrive.live.com/download?resid=9C1C8A04C11CADE3%21177558&authkey=!APEED-LWXmO2Sa4" type='video/mp4'/>
+</video>
+
+<small>@2023-11-29 18:46:00</small>
+认识自己，知行合一
+
+<small>@2023-11-29 08:33:11</small>
+>让我们陷入困境的不是无知，而是自以为正确的谬误。
+
+来源：[战争与和平：字节跳动与腾讯的六年纠葛](https://www.latepost.com/news/dj_detail?id=1985)
+
+<small>@2023-11-24 22:37:23</small>
+>有限的可建造土地上昂貴的房地產已經成為世代相傳的現實
+
+来源：[纽约时报中文网](https://cn.nytimes.com/real-estate/20231123/zurich-switzerland-renting-homes/zh-hant/?utm_source=RSS)
+
+<small>@2023-11-24 22:17:59</small>
+我究竟需要什么样的亲密关系呢？
+浪漫一点的说法是，我想在她身上看到另一个世界。
+现实一点的说法是，我想嫁个有文化的富婆。
+
+<small>@2023-11-23 19:48:19</small>
+>藝術並不是一個觀念，也不是一個東西，而是一個肉體運動的過程。所以把人類從枯燥的重複勞動中解放出來去「做更有創造性的事」本身就是一個 oxymoron。
+
+>全新的有力藝術想像並非天才能獨力完成，而是她們和觀者、聽衆、讀者一起完成的。這正是目前的人工智能論述令人失望之處：作爲觀者、聽衆、讀者的一方已經完全做好了卸下責任的準備。
+
+来源：[一天世界](http://blog.yitianshijie.net/2023/11/23/4136/)
+
+<small>@2023-11-22 09:43:58</small>
+>如果我們是在談論對人類文明可能產生重大影響的人工智能，個人經驗的侷限性就更加致命。人不是神。世界上有太多 Altman 和 D’Angelo 不瞭解的人、文化、和生活方式。
+
+来源：[一天世界](https://blog.yitianshijie.net/2023/11/22/4125/)
+
+<small>@2023-11-22 00:02:36</small>
+我要这微信有何用？
+
+<small>@2023-11-20 01:25:45</small>
+我究竟需要什么样的亲密关系呢？
+
+<small>@2023-11-19 21:10:48</small>
+横向对比了一下 GPT 的官网客户端和 Azure API，感觉还是 API 好用，至少不会老崩，至于什么上网插件，读取 URL、文件，我根本用不上。
+
+<small>@2023-11-19 17:53:29</small>
+simple and clean 
+
 <small>@2023-11-16 11:34:01</small>
 我现在的 dream machine：一台 12 寸的 MacBook Pro，就用现在的 MacBook Pro 的模具，把体积做小，配一个普通的 M 系芯片，内存加到 64G。perfect！
 
