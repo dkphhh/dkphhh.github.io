@@ -13,7 +13,9 @@ entries:
         url: ./docx
       - title: .jpg
         url: ./jpg
-
+      - title: .mov
+        url: ./mov
+        
   - title: post
     post_list:
       limit: 10

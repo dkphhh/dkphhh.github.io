@@ -1,12 +1,12 @@
 <small>@2023-12-02 14:57:10</small>
 
-<video controls width="720" height="480">
+<video controls width="360" height="240">
    <source src="https://onedrive.live.com/download?resid=9C1C8A04C11CADE3%21177868&authkey=!AJJokhbd2a4QkME" type='video/mp4'/>
 </video>
 
 <small>@2023-12-02 14:27:19</small>
 
-<video controls width="720" height="480">
+<video controls width="360" height="240">
    <source src="https://onedrive.live.com/download?resid=9C1C8A04C11CADE3%21177558&authkey=!APEED-LWXmO2Sa4" type='video/mp4'/>
 </video>
 
@@ -98,7 +98,7 @@ clarks 的 wallabee cup 拯救了我的衣柜 🥹
 
 <small>@2023-10-21 22:39:30</small>
 
-<video controls width="720" height="480">
+<video controls width="360" height="240">
    <source src="https://onedrive.live.com/download?cid=9C1C8A04C11CADE3&resid=9C1C8A04C11CADE3%21149698&authkey=!APk4GkMqDZKIVHg" type='video/mp4'/>
 </video>
 
@@ -126,7 +126,7 @@ clarks 的 wallabee cup 拯救了我的衣柜 🥹
 <small>@2023-10-14 16:13:22</small>
 iPhone 15 Pro 的视频拍摄 👍
 
-<video controls width="720" height="480">
+<video controls width="360" height="240">
    <source src="https://onedrive.live.com/download?cid=9C1C8A04C11CADE3&resid=9C1C8A04C11CADE3%21149916&authkey=!AJ036i6B3dr4QDU" type='video/mp4'/>
 </video>
 
