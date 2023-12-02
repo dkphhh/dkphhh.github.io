@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: .jpg
-which_category: jpg
+title: .mov
+which_category: mov
 category: category
 ---
