@@ -1,3 +1,8 @@
+<small>@2023-12-24 00:09:11</small>
+今年比较满意的一张自拍🤳
+![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20231224000858.jpg)
+
+
 <small>@2023-12-23 19:59:16</small>
 在北半球最长的夜里
 ![](https://cdn.jsdelivr.net/gh/dkphhh/img/imgformessage/20231223195851.jpg)
