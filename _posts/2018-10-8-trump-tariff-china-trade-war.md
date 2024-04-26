@@ -4,7 +4,7 @@ layout: post
 category: digest
 author: dkphhh
 tag: 贸易战 经济
-date: 2018.10.8 19:00
+date: 2018-10-08 19:00
 permalink: /trump-tariff-china-trade-war
 ---
 

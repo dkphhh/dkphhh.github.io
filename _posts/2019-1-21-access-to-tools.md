@@ -6,6 +6,7 @@ category: idea
 tag: 反文化运动 全球概览 计算机 古典互联网
 date: 2019-1-21 20:00
 permalink: /access-to-tools
+
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/KFRC_Fantasy_Fair_Dryden_Balin_Kantner.png/1024px-KFRC_Fantasy_Fair_Dryden_Balin_Kantner.png)
