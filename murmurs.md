@@ -1,3 +1,18 @@
+<small>@2024-05-02 15:01:47</small>
+南方特产是蟑螂，北京的特产就是灰尘。一样悄无声息，隐秘滋长，一样是生活里的不速之客，但灰尘有一点审美价值。
+
+<small>@2024-05-02 14:53:58</small>
+现在有卧室音乐人，卧室电台DJ，作家创作在卧室，独立开发者的创造也在卧室。卧室是现代社会的重要隐喻。我在卧室里能得到这个世界的一切，我为什么还要出门呢？
+
+<small>@2024-05-02 01:14:13</small>
+> 在黑夜里书写自己，就像在 imax 影院里观看自己，所有的感官体验都被放大了。
+
+来源：[马鲨鲨 碎片VLOG.22 「成为表达者」_哔哩哔哩_bilibili](https://m.bilibili.com/video/BV1Wm411C7Nm?buvid=YD4E2ED65EFA728C43ECB2C1AEE8DD7651E6&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=y4D2iI4xsN6EonJxfXRZBw%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=2730656D-9B76-42A1-8AFF-13B832CC00C1&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1714583456&unique_k=V4rlXOI&up_id=389992601&share_times=1)
+
+
+<small>@2024-05-02 01:07:08</small>
+总结一下这大半年学编程的感受和心得：东西很多，很不学不完，但一个需求我只需要一种方法满足，余下的我也不需要学。
+
 <small>@2024-05-01 17:50:15</small>
 
 Share a photo 
